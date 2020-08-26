@@ -1,0 +1,1669 @@
+{
+	"pokemon":{
+		"Bulbasaur":{
+            "name": "Bulbasaur",
+            "id":1,
+            "evolution": "Ivysaur",
+            "type": {
+                "type1": "grass",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+            "url": "https://www.pokemon.com/br/pokedex/bulbasaur"
+        },
+        "Ivysaur":{
+            "name": "Ivysaur",
+            "id":2,
+            "evolution": "Venosaur",
+            "type": {
+                "type1": "grass",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+            "url": "https://www.pokemon.com/br/pokedex/ivysaur"
+        },
+        "Venosaur":{
+            "name": "Venosaur",
+            "id":3,
+            "evolution": "none",
+            "type": {
+                "type1": "grass",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+            "url": "https://www.pokemon.com/br/pokedex/venusaur"
+        },
+        "Charmander":{
+            "name":"Charmander",
+            "id":4,
+            "evolution": "Charmeleon",
+            "type": {
+                "type1": "fire",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+            "url": "https://www.pokemon.com/br/pokedex/charmander"
+        },
+        "Charmeleon":{
+            "name":"Charmeleon",
+            "id":5,
+            "evolution": "Charizard",
+            "type": {
+                "type1": "fire",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+            "url": "https://www.pokemon.com/br/pokedex/charmeleon"
+        },
+        "Charizard":{
+            "name":"Charizard",
+            "id":6,
+            "evolution": "none",
+            "type": {
+                "type1": "fire",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+            "url": "https://www.pokemon.com/br/pokedex/charizard"
+        },
+        "Squirtle":{
+            "name":"Squirtle",
+            "id":7,
+            "evolution": "Watortle",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+            "url": "https://www.pokemon.com/br/pokedex/squirtle"
+        },
+        "Watortle":{
+            "name":"Watortle",
+            "id":8,
+            "evolution": "Blastoise",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+            "url": "https://www.pokemon.com/br/pokedex/watortle"
+        },
+        "Blastoise":{
+            "name":"Blastoise",
+            "id":9,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+            "url": "https://www.pokemon.com/br/pokedex/blastoise"
+        },
+        "Caterpie":{
+            "name":"Caterpie",
+            "id":10,
+            "evolution": "Metapod",
+            "type": {
+                "type1": "bug",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+            "url": "https://www.pokemon.com/br/pokedex/caterpie"
+        },
+        "Metapod":{
+            "name":"Metapod",
+            "id":11,
+            "evolution": "Butterfree",
+            "type": {
+                "type1": "bug",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+            "url": "https://www.pokemon.com/br/pokedex/metapod"
+        },
+        "Butterfree":{
+            "name":"Butterfree",
+            "id":12,
+            "evolution": "none",
+            "type": {
+                "type1": "bug",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+            "url": "https://www.pokemon.com/br/pokedex/butterfree"
+        },
+        "Weedle":{
+            "name":"Weedle",
+            "id":13,
+            "evolution": "Kakuna",
+            "type": {
+                "type1": "bug",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+            "url": "https://www.pokemon.com/br/pokedex/weedle"
+        },
+        "Kakuna":{
+            "name":"Kakuna",
+            "id":14,
+            "evolution": "Beedrill",
+            "type": {
+                "type1": "bug",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+            "url": "https://www.pokemon.com/br/pokedex/kakuna"
+        },
+        "Beedrill":{
+            "name":"Beedrill",
+            "id":15,
+            "evolution": "none",
+            "type": {
+                "type1": "bug",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+            "url": "https://www.pokemon.com/br/pokedex/beedrill"
+        },
+        "Pidgey":{
+            "name":"Pidgey",
+            "id":16,
+            "evolution": "Pidgeotto",
+            "type": {
+                "type1": "normal",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
+            "url": "https://www.pokemon.com/br/pokedex/pidgey"
+        },
+        "Pidgeotto":{
+            "name":"Pidgeotto",
+            "id":17,
+            "evolution": "Pidgeot",
+            "type": {
+                "type1": "normal",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
+            "url": "https://www.pokemon.com/br/pokedex/pidgeotto"
+        },
+        "Pidgeot":{
+            "name":"Pidgeot",
+            "id":18,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+            "url": "https://www.pokemon.com/br/pokedex/pidgeot"
+        },
+        "Ratata":{
+            "name":"Ratata",
+            "id":19,
+            "evolution": "Raticate",
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
+            "url": "https://www.pokemon.com/br/pokedex/ratata"
+        },
+        "Raticate":{
+            "name":"Raticate",
+            "id":20,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+            "url": "https://www.pokemon.com/br/pokedex/raticate"
+        },
+        "Spearow":{
+            "name":"Spearow",
+            "id":21,
+            "evolution": "Fearow",
+            "type": {
+                "type1": "normal",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+            "url": "https://www.pokemon.com/br/pokedex/spearow"
+        },
+        "Fearow":{
+            "name":"Fearow",
+            "id":22,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png",
+            "url": "https://www.pokemon.com/br/pokedex/fearow"
+        },
+        "Ekans":{
+            "name":"Ekans",
+            "id":23,
+            "evolution": "Arbok",
+            "type": {
+                "type1": "poison",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
+            "url": "https://www.pokemon.com/br/pokedex/ekans"
+        },
+        "Arbok":{
+            "name":"Arbok",
+            "id":24,
+            "evolution": "none",
+            "type": {
+                "type1": "poison",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
+            "url": "https://www.pokemon.com/br/pokedex/arbok"
+        },
+        "Pikachu":{
+            "name":"Pikachu",
+            "id":25,
+            "evolution": "Raichu",
+            "type": {
+                "type1": "electric",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+            "url": "https://www.pokemon.com/br/pokedex/pikachu"
+        },
+        "Raichu":{
+            "name":"Raichu",
+            "id":26,
+            "evolution": "none",
+            "type": {
+                "type1": "electric",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
+            "url": "https://www.pokemon.com/br/pokedex/raichu"
+        },
+        "Sandshrew":{
+            "name":"Sandshrew",
+            "id":27,
+            "evolution": "Sandslash",
+            "type": {
+                "type1": "ground",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
+            "url": "https://www.pokemon.com/br/pokedex/sandshrew"
+        },
+        "Sandslash":{
+            "name":"Sandslash",
+            "id":28,
+            "evolution": "none",
+            "type": {
+                "type1": "ground",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png",
+            "url": "https://www.pokemon.com/br/pokedex/sandslash"
+        },
+        "Nidoran(F)":{
+            "name":"Nidoran(F)",
+            "id":29,
+            "evolution": "Nidorina",
+            "type": {
+                "type1": "poison",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png",
+            "url": "https://www.pokemon.com/br/pokedex/nidoran-female"
+        },
+        "Nidorina":{
+            "name":"Nidorina",
+            "id":30,
+            "evolution": "Nidoqueen",
+            "type": {
+                "type1": "poison",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
+            "url": "https://www.pokemon.com/br/pokedex/nidorina"
+        },
+        "Nidoqueen":{
+            "name":"Nidoqueen",
+            "id":31,
+            "evolution": "none",
+            "type": {
+                "type1": "poison",
+                "type2": "ground"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
+            "url": "https://www.pokemon.com/br/pokedex/nidoqueen"
+        },
+        "Nidoran(M)":{
+            "name":"Nidoran(M)",
+            "id":32,
+            "evolution": "Nidorino",
+            "type": {
+                "type1": "poison",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png",
+            "url": "https://www.pokemon.com/br/pokedex/nidoran-male"
+        },
+        "Nidorino":{
+            "name":"Nidorino",
+            "id":33,
+            "evolution": "Nidoking",
+            "type": {
+                "type1": "poison",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png",
+            "url": "https://www.pokemon.com/br/pokedex/nidorino"
+        },
+        "Nidoking":{
+            "name":"Nidoking",
+            "id":34,
+            "evolution": "none",
+            "type": {
+                "type1": "poison",
+                "type2": "ground"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
+            "url": "https://www.pokemon.com/br/pokedex/nidoking"
+        },
+        "Clefairy":{
+            "name":"Clefairy",
+            "id":35,
+            "evolution": "Clefable",
+            "type": {
+                "type1": "fairy",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
+            "url": "https://www.pokemon.com/br/pokedex/clefairy"
+        },
+        "Clefable":{
+            "name":"Clefable",
+            "id":36,
+            "evolution": "none",
+            "type": {
+                "type1": "fairy",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png",
+            "url": "https://www.pokemon.com/br/pokedex/clefable"
+        },
+        "Vulpix":{
+            "name":"Vulpix",
+            "id":37,
+            "evolution": "Ninetales",
+            "type": {
+                "type1": "fire",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
+            "url": "https://www.pokemon.com/br/pokedex/vulpix"
+        },
+        "Ninetales":{
+            "name":"Ninetales",
+            "id":38,
+            "evolution": "none",
+            "type": {
+                "type1": "fire",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
+            "url": "https://www.pokemon.com/br/pokedex/ninetales"
+        },
+        "Jigglypuff":{
+            "name":"Jigglypuff",
+            "id":39,
+            "evolution": "Wigglytuff",
+            "type": {
+                "type1": "normal",
+                "type2": "fairy"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+            "url": "https://www.pokemon.com/br/pokedex/jigglypuff"
+        },
+        "Wigglytuff":{
+            "name":"Wigglytuff",
+            "id":40,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "fairy"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png",
+            "url": "https://www.pokemon.com/br/pokedex/wigglytuff"
+        },
+        "Zubat":{
+            "name":"Zubat",
+            "id":41,
+            "evolution": "Golbat",
+            "type": {
+                "type1": "poison",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
+            "url": "https://www.pokemon.com/br/pokedex/zubat"
+        },
+        "Golbat":{
+            "name":"Golbat",
+            "id":42,
+            "evolution": "none",
+            "type": {
+                "type1": "poison",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png",
+            "url": "https://www.pokemon.com/br/pokedex/golbat"
+        },
+        "Oddish":{
+            "name":"Oddish",
+            "id":43,
+            "evolution": "Gloom",
+            "type": {
+                "type1": "grass",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png",
+            "url": "https://www.pokemon.com/br/pokedex/oddish"
+        },
+        "Gloom":{
+            "name":"Gloom",
+            "id":44,
+            "evolution": "Vileplume",
+            "type": {
+                "type1": "grass",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png",
+            "url": "https://www.pokemon.com/br/pokedex/gloom"
+        },
+        "Vileplume":{
+            "name":"Vileplume",
+            "id":45,
+            "evolution": "none",
+            "type": {
+                "type1": "grass",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
+            "url": "https://www.pokemon.com/br/pokedex/vileplume"
+        },
+        "Paras":{
+            "name":"Paras",
+            "id":46,
+            "evolution": "Parasect",
+            "type": {
+                "type1": "bug",
+                "type2": "grass"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
+            "url": "https://www.pokemon.com/br/pokedex/paras"
+        },
+        "Parasect":{
+            "name":"Parasect",
+            "id":47,
+            "evolution": "none",
+            "type": {
+                "type1": "bug",
+                "type2": "grass"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png",
+            "url": "https://www.pokemon.com/br/pokedex/parasect"
+        },
+        "Venonat":{
+            "name":"Venonat",
+            "id":48,
+            "evolution": "Venomoth",
+            "type": {
+                "type1": "bug",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png",
+            "url": "https://www.pokemon.com/br/pokedex/Venonat"
+        },
+        "Venomoth":{
+            "name":"Venomoth",
+            "id":49,
+            "evolution": "none",
+            "type": {
+                "type1": "bug",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
+            "url": "https://www.pokemon.com/br/pokedex/venomoth"
+        },
+        "Diglet":{
+            "name":"Diglet",
+            "id":50,
+            "evolution": "Dugtrio",
+            "type": {
+                "type1": "ground",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+            "url": "https://www.pokemon.com/br/pokedex/diglet"
+        },
+        "Dugtrio":{
+            "name":"Dugtrio",
+            "id":51,
+            "evolution": "none",
+            "type": {
+                "type1": "ground",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
+            "url": "https://www.pokemon.com/br/pokedex/dugtrio"
+        },
+        "Meowth":{
+            "name":"Meowth",
+            "id":52,
+            "evolution": "Persian",
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
+            "url": "https://www.pokemon.com/br/pokedex/meowth"
+        },
+        "Persian":{
+            "name":"Persian",
+            "id":53,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
+            "url": "https://www.pokemon.com/br/pokedex/persian"
+        },
+        "Psyduck":{
+            "name":"Psyduck",
+            "id":54,
+            "evolution": "Golduck",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
+            "url": "https://www.pokemon.com/br/pokedex/psyduck"
+        },
+        "Golduck":{
+            "name":"Golduck",
+            "id":55,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
+            "url": "https://www.pokemon.com/br/pokedex/golduck"
+        },
+        "Mankey":{
+            "name":"Mankey",
+            "id":56,
+            "evolution": "Primeape",
+            "type": {
+                "type1": "fighting",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png",
+            "url": "https://www.pokemon.com/br/pokedex/mankey"
+        },
+        "Primeape":{
+            "name":"Primeape",
+            "id":57,
+            "evolution": "none",
+            "type": {
+                "type1": "fighting",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png",
+            "url": "https://www.pokemon.com/br/pokedex/primeape"
+        },
+        "Growlithe":{
+            "name":"Growlithe",
+            "id":58,
+            "evolution": "Arcanine",
+            "type": {
+                "type1": "fire",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
+            "url": "https://www.pokemon.com/br/pokedex/growlithe"
+        },
+        "Arcanine":{
+            "name":"Arcanine",
+            "id":59,
+            "evolution": "none",
+            "type": {
+                "type1": "fire",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
+            "url": "https://www.pokemon.com/br/pokedex/arcanine"
+        },
+        "Poliwag":{
+            "name":"Poliwag",
+            "id":60,
+            "evolution": "Poliwhirl",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png",
+            "url": "https://www.pokemon.com/br/pokedex/poliwag"
+        },
+        "Poliwhirl":{
+            "name":"Poliwhirl",
+            "id":61,
+            "evolution": "Poliwrath",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png",
+            "url": "https://www.pokemon.com/br/pokedex/poliwhirl"
+        },
+        "Poliwrath":{
+            "name":"Poliwrath",
+            "id":62,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "fighting"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png",
+            "url": "https://www.pokemon.com/br/pokedex/poliwrath"
+        },
+        "Abra":{
+            "name":"Abra",
+            "id":63,
+            "evolution": "Kadabra",
+            "type": {
+                "type1": "psychic",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
+            "url": "https://www.pokemon.com/br/pokedex/abra"
+        },
+        "Kadabra":{
+            "name":"Kadabra",
+            "id":64,
+            "evolution": "Alakazam",
+            "type": {
+                "type1": "psychic",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png",
+            "url": "https://www.pokemon.com/br/pokedex/kadabra"
+        },
+        "Alakazam":{
+            "name":"Alakazam",
+            "id":65,
+            "evolution": "none",
+            "type": {
+                "type1": "psychic",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+            "url": "https://www.pokemon.com/br/pokedex/alakazam"
+        },
+        "Machop":{
+            "name":"Machop",
+            "id":66,
+            "evolution": "Machoke",
+            "type": {
+                "type1": "fighting",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
+            "url": "https://www.pokemon.com/br/pokedex/machop"
+        },
+        "Machoke":{
+            "name":"Machoke",
+            "id":67,
+            "evolution": "Machamp",
+            "type": {
+                "type1": "fighting",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png",
+            "url": "https://www.pokemon.com/br/pokedex/machoke"
+        },
+        "Machamp":{
+            "name":"Machamp",
+            "id":68,
+            "evolution": "none",
+            "type": {
+                "type1": "fighting",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png",
+            "url": "https://www.pokemon.com/br/pokedex/machamp"
+        },
+        "Bellsprout":{
+            "name":"Bellsprout",
+            "id":69,
+            "evolution": "Weepingbell",
+            "type": {
+                "type1": "grass",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png",
+            "url": "https://www.pokemon.com/br/pokedex/bellsprout"
+        },
+        "Weepingbell":{
+            "name":"Weepingbell",
+            "id":70,
+            "evolution": "Victreebel",
+            "type": {
+                "type1": "grass",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png",
+            "url": "https://www.pokemon.com/br/pokedex/weepingbell"
+        },
+        "Victreebel":{
+            "name":"Victreebel",
+            "id":71,
+            "evolution": "none",
+            "type": {
+                "type1": "grass",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png",
+            "url": "https://www.pokemon.com/br/pokedex/victreebel"
+        },
+        "Tentacool":{
+            "name":"Tentacool",
+            "id":72,
+            "evolution": "Tentacruel",
+            "type": {
+                "type1": "water",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png",
+            "url": "https://www.pokemon.com/br/pokedex/tentacool"
+        },
+        "Tentacruel":{
+            "name":"Tentacruel",
+            "id":73,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png",
+            "url": "https://www.pokemon.com/br/pokedex/tentacruel"
+        },
+        "Geodude":{
+            "name":"Geodude",
+            "id":74,
+            "evolution": "Graveler",
+            "type": {
+                "type1": "rock",
+                "type2": "ground"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
+            "url": "https://www.pokemon.com/br/pokedex/geodude"
+        },
+        "Graveler":{
+            "name":"Graveler",
+            "id":75,
+            "evolution": "Golem",
+            "type": {
+                "type1": "rock",
+                "type2": "ground"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png",
+            "url": "https://www.pokemon.com/br/pokedex/graveler"
+        },
+        "Golem":{
+            "name":"Golem",
+            "id":76,
+            "evolution": "none",
+            "type": {
+                "type1": "rock",
+                "type2": "ground"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
+            "url": "https://www.pokemon.com/br/pokedex/golem"
+        },
+        "Ponyta":{
+            "name":"Ponyta",
+            "id":77,
+            "evolution": "Rapidash",
+            "type": {
+                "type1": "fire",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
+            "url": "https://www.pokemon.com/br/pokedex/ponyta"
+        },
+        "Rapidash":{
+            "name":"Rapidash",
+            "id":78,
+            "evolution": "none",
+            "type": {
+                "type1": "fire",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
+            "url": "https://www.pokemon.com/br/pokedex/rapidash"
+        },
+        "Slowpoke":{
+            "name":"Slowpoke",
+            "id":79,
+            "evolution": "Slowbro",
+            "type": {
+                "type1": "water",
+                "type2": "psychic"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
+            "url": "https://www.pokemon.com/br/pokedex/slowpoke"
+        },
+        "Slowbro":{
+            "name":"Slowbro",
+            "id":80,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "psychic"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png",
+            "url": "https://www.pokemon.com/br/pokedex/slowbro"
+        },
+        "Magnemite":{
+            "name":"Magnemite",
+            "id":81,
+            "evolution": "Magneton",
+            "type": {
+                "type1": "electric",
+                "type2": "steel"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png",
+            "url": "https://www.pokemon.com/br/pokedex/magnemite"
+        },
+        "Magneton":{
+            "name":"Magneton",
+            "id":82,
+            "evolution": "none",
+            "type": {
+                "type1": "electric",
+                "type2": "steel"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png",
+            "url": "https://www.pokemon.com/br/pokedex/magneton"
+        },
+        "Farfetch’d":{
+            "name":"Farfetch’d",
+            "id":83,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png",
+            "url": "https://www.pokemon.com/br/pokedex/farfetchd"
+        },
+        "Duduo":{
+            "name":"Duduo",
+            "id":84,
+            "evolution": "Dudrio",
+            "type": {
+                "type1": "normal",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png",
+            "url": "https://www.pokemon.com/br/pokedex/doduo"
+        },
+        "Dudrio":{
+            "name":"Dudrio",
+            "id":85,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png",
+            "url": "https://www.pokemon.com/br/pokedex/dodrio"
+        },
+        "Seel":{
+            "name":"Seel",
+            "id":86,
+            "evolution": "Dewgong",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png",
+            "url": "https://www.pokemon.com/br/pokedex/seel"
+        },
+        "Dewgong":{
+            "name":"Dewgong",
+            "id":87,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "ice"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+            "url": "https://www.pokemon.com/br/pokedex/dewgong"
+        },
+        "Grimer":{
+            "name":"Grimer",
+            "id":88,
+            "evolution": "Muk",
+            "type": {
+                "type1": "poison",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+            "url": "https://www.pokemon.com/br/pokedex/grimer"
+        },
+        "Muk":{
+            "name":"Muk",
+            "id":89,
+            "evolution": "none",
+            "type": {
+                "type1": "poison",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
+            "url": "https://www.pokemon.com/br/pokedex/muk"
+        },
+        "Shellder":{
+            "name":"Shellder",
+            "id":90,
+            "evolution": "Cloyster",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png",
+            "url": "https://www.pokemon.com/br/pokedex/shellder"
+        },
+        "Cloyster":{
+            "name":"Cloyster",
+            "id":91,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "ice"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
+            "url": "https://www.pokemon.com/br/pokedex/cloyster"
+        },
+        "Gastly":{
+            "name":"Gastly",
+            "id":92,
+            "evolution": "Haunter",
+            "type": {
+                "type1": "ghost",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png",
+            "url": "https://www.pokemon.com/br/pokedex/gastly"
+        },
+        "Haunter":{
+            "name":"Haunter",
+            "id":93,
+            "evolution": "Gengar",
+            "type": {
+                "type1": "ghost",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
+            "url": "https://www.pokemon.com/br/pokedex/haunter"
+        },
+        "Gengar":{
+            "name":"Gengar",
+            "id":94,
+            "evolution": "none",
+            "type": {
+                "type1": "ghost",
+                "type2": "poison"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+            "url": "https://www.pokemon.com/br/pokedex/gengar"
+        },
+        "Onix":{
+            "name":"Onix",
+            "id":95,
+            "evolution": "none",
+            "type": {
+                "type1": "rock",
+                "type2": "ground"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
+            "url": "https://www.pokemon.com/br/pokedex/onix"
+        },
+        "Drowzee":{
+            "name":"Drowzee",
+            "id":96,
+            "evolution": "Hipno",
+            "type": {
+                "type1": "psychic",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
+            "url": "https://www.pokemon.com/br/pokedex/drowzee"
+        },
+        "Hipno":{
+            "name":"Hipno",
+            "id":97,
+            "evolution": "none",
+            "type": {
+                "type1": "psychic",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png",
+            "url": "https://www.pokemon.com/br/pokedex/hipno"
+        },
+        "Krabby":{
+            "name":"Krabby",
+            "id":98,
+            "evolution": "Kingler",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png",
+            "url": "https://www.pokemon.com/br/pokedex/krabby"
+        },
+        "Kingler":{
+            "name":"Kingler",
+            "id":99,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png",
+            "url": "https://www.pokemon.com/br/pokedex/kingler"
+        },
+        "Voltorb":{
+            "name":"Voltorb",
+            "id":100,
+            "evolution": "Electrode",
+            "type": {
+                "type1": "electric",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
+            "url": "https://www.pokemon.com/br/pokedex/voltorb"
+        },
+        "Electrode":{
+            "name":"Electrode",
+            "id":101,
+            "evolution": "none",
+            "type": {
+                "type1": "electric",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png",
+            "url": "https://www.pokemon.com/br/pokedex/electrode"
+        },
+        "Exeggcute":{
+            "name":"Exeggcute",
+            "id":102,
+            "evolution": "Exeggutor",
+            "type": {
+                "type1": "grass",
+                "type2": "psychic"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png",
+            "url": "https://www.pokemon.com/br/pokedex/exeggcute"
+        },
+        "Exeggutor":{
+            "name":"Exeggutor",
+            "id":103,
+            "evolution": "none",
+            "type": {
+                "type1": "grass",
+                "type2": "psychic"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png",
+            "url": "https://www.pokemon.com/br/pokedex/exeggutor"
+        },
+        "Cubone":{
+            "name":"Cubone",
+            "id":104,
+            "evolution": "Marowak",
+            "type": {
+                "type1": "ground",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
+            "url": "https://www.pokemon.com/br/pokedex/cubone"
+        },
+        "Marowak":{
+            "name":"Marowak",
+            "id":105,
+            "evolution": "none",
+            "type": {
+                "type1": "ground",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png",
+            "url": "https://www.pokemon.com/br/pokedex/marowak"
+        },
+        "Hitmonlee":{
+            "name":"Hitmonlee",
+            "id":106,
+            "evolution": "none",
+            "type": {
+                "type1": "fighting",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
+            "url": "https://www.pokemon.com/br/pokedex/hitmonlee"
+        },
+        "Hitmonchan":{
+            "name":"Hitmonchan",
+            "id":107,
+            "evolution": "none",
+            "type": {
+                "type1": "fighting",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png",
+            "url": "https://www.pokemon.com/br/pokedex/hitmonchan"
+        },
+        "Lickitung":{
+            "name":"Lickitung",
+            "id":108,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png",
+            "url": "https://www.pokemon.com/br/pokedex/lickitung"
+        },
+        "Koffing":{
+            "name":"Koffing",
+            "id":109,
+            "evolution": "Weezing",
+            "type": {
+                "type1": "poison",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
+            "url": "https://www.pokemon.com/br/pokedex/koffing"
+        },
+        "Weezing":{
+            "name":"Weezing",
+            "id":110,
+            "evolution": "none",
+            "type": {
+                "type1": "poison",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png",
+            "url": "https://www.pokemon.com/br/pokedex/weezing"
+        },
+        "Rhyhorn":{
+            "name":"Rhyhorn",
+            "id":111,
+            "evolution": "Rhydon",
+            "type": {
+                "type1": "ground",
+                "type2": "rock"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
+            "url": "https://www.pokemon.com/br/pokedex/rhyhorn"
+        },
+        "Rhydon":{
+            "name":"Rhydon",
+            "id":112,
+            "evolution": "none",
+            "type": {
+                "type1": "ground",
+                "type2": "rock"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png",
+            "url": "https://www.pokemon.com/br/pokedex/rhydon"
+        },
+        "Chansey":{
+            "name":"Chansey",
+            "id":113,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png",
+            "url": "https://www.pokemon.com/br/pokedex/c    hansey"
+        },
+        "Tangela":{
+            "name":"Tangela",
+            "id":114,
+            "evolution": "none",
+            "type": {
+                "type1": "grass",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png",
+            "url": "https://www.pokemon.com/br/pokedex/tangela"
+        },
+        "Kangaskhan":{
+            "name":"Kangaskhan",
+            "id":115,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png",
+            "url": "https://www.pokemon.com/br/pokedex/kangaskhan "
+        },
+        "Horsea":{
+            "name":"Horsea",
+            "id":116,
+            "evolution": "Seadra",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
+            "url": "https://www.pokemon.com/br/pokedex/horsea"
+        },
+        "Seadra":{
+            "name":"Seadra",
+            "id":117,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png",
+            "url": "https://www.pokemon.com/br/pokedex/seadra"
+        },
+        "Goldeen":{
+            "name":"Goldeen",
+            "id":118,
+            "evolution": "Seaking",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png",
+            "url": "https://www.pokemon.com/br/pokedex/goldeen"
+        },
+        "Seaking":{
+            "name":"Seaking",
+            "id":119,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png",
+            "url": "https://www.pokemon.com/br/pokedex/seaking"
+        },
+        "Staryu":{
+            "name":"Staryu",
+            "id":120,
+            "evolution": "Starmie",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png",
+            "url": "https://www.pokemon.com/br/pokedex/staryu"
+        },
+        "Starmie":{
+            "name":"Starmie",
+            "id":121,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "psychic"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png",
+            "url": "https://www.pokemon.com/br/pokedex/starmie"
+        },
+        "Mr. Mime":{
+            "name":"Mr. Mime",
+            "id":122,
+            "evolution": "none",
+            "type": {
+                "type1": "psychic",
+                "type2": "fairy"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png",
+            "url": "https://www.pokemon.com/br/pokedex/mr-mime"
+        },
+        "Scyther":{
+            "name":"Scyther",
+            "id":123,
+            "evolution": "none",
+            "type": {
+                "type1": "bug",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
+            "url": "https://www.pokemon.com/br/pokedex/scyther"
+        },
+        "Jynx":{
+            "name":"Jynx",
+            "id":124,
+            "evolution": "none",
+            "type": {
+                "type1": "ice",
+                "type2": "psychic"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
+            "url": "https://www.pokemon.com/br/pokedex/jynx"
+        },
+        "Electabuzz":{
+            "name":"Electabuzz",
+            "id":125,
+            "evolution": "none",
+            "type": {
+                "type1": "electric",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
+            "url": "https://www.pokemon.com/br/pokedex/electabuzz"
+        },
+        "Magmar":{
+            "name":"Magmar",
+            "id":126,
+            "evolution": "none",
+            "type": {
+                "type1": "fire",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png",
+            "url": "https://www.pokemon.com/br/pokedex/magmar"
+        },
+        "Pinsir":{
+            "name":"Pinsir",
+            "id":127,
+            "evolution": "none",
+            "type": {
+                "type1": "bug",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png",
+            "url": "https://www.pokemon.com/br/pokedex/pinsir"
+        },
+        "Tauros":{
+            "name":"Tauros",
+            "id":128,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
+            "url": "https://www.pokemon.com/br/pokedex/tauros"
+        },
+        "Magikarp":{
+            "name":"Magikarp",
+            "id":129,
+            "evolution": "Gyarados",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
+            "url": "https://www.pokemon.com/br/pokedex/magikarp"
+        },
+        "Gyarados":{
+            "name":"Gyarados",
+            "id":130,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
+            "url": "https://www.pokemon.com/br/pokedex/gyarados"
+        },
+        "Lapras":{
+            "name":"Lapras",
+            "id":131,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "ice"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+            "url": "https://www.pokemon.com/br/pokedex/lapras"
+        },
+        "Ditto":{
+            "name":"Ditto",
+            "id":132,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
+            "url": "https://www.pokemon.com/br/pokedex/ditto"
+        },
+        "Eevee":{
+            "name":"Eevee",
+            "id":133,
+            "evolution": {
+                "evolution1": "Vaporeon",
+                "evolution2": "Jolteon",
+                "evolution3": "Flareon"
+            },
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
+            "url": "https://www.pokemon.com/br/pokedex/eevee"
+        },
+        "Vaporeon":{
+            "name":"Vaporeon",
+            "id":134,
+            "evolution": "none",
+            "type": {
+                "type1": "water",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
+            "url": "https://www.pokemon.com/br/pokedex/vaporeon"
+        },
+        "Jolteon":{
+            "name":"Jolteon",
+            "id":135,
+            "evolution": "none",
+            "type": {
+                "type1": "electric",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
+            "url": "https://www.pokemon.com/br/pokedex/jolteon"
+        },
+        "Flareon":{
+            "name":"Flareon",
+            "id":136,
+            "evolution": "none",
+            "type": {
+                "type1": "fire",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
+            "url": "https://www.pokemon.com/br/pokedex/flareon"
+        },
+        "Porygon":{
+            "name":"Porygon",
+            "id":137,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png",
+            "url": "https://www.pokemon.com/br/pokedex/porygon"
+        },
+        "Omanyte":{
+            "name":"Omanyte",
+            "id":138,
+            "evolution": "Omastar",
+            "type": {
+                "type1": "rock",
+                "type2": "water"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png",
+            "url": "https://www.pokemon.com/br/pokedex/omanyte"
+        },
+        "Omastar":{
+            "name":"Omastar",
+            "id":139,
+            "evolution": "none",
+            "type": {
+                "type1": "rock",
+                "type2": "water"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png",
+            "url": "https://www.pokemon.com/br/pokedex/omastar"
+        },
+        "Kabuto":{
+            "name":"Kabuto",
+            "id":140,
+            "evolution": "Kabutops",
+            "type": {
+                "type1": "rock",
+                "type2": "water"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png",
+            "url": "https://www.pokemon.com/br/pokedex/kabuto"
+        },
+        "Kabutops":{
+            "name":"Kabutops",
+            "id":141,
+            "evolution": "none",
+            "type": {
+                "type1": "rock",
+                "type2": "water"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png",
+            "url": "https://www.pokemon.com/br/pokedex/kabutops"
+        },
+        "Aerodactyl":{
+            "name":"Aerodactyl",
+            "id":142,
+            "evolution": "none",
+            "type": {
+                "type1": "rock",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
+            "url": "https://www.pokemon.com/br/pokedex/aerodactyl"
+        },
+        "Snorlax":{
+            "name":"Snorlax",
+            "id":143,
+            "evolution": "none",
+            "type": {
+                "type1": "normal",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
+            "url": "https://www.pokemon.com/br/pokedex/snorlax"
+        },
+        "Articuno":{
+            "name":"Articuno",
+            "id":144,
+            "evolution": "none",
+            "type": {
+                "type1": "ice",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
+            "url": "https://www.pokemon.com/br/pokedex/articuno"
+        },
+        "Zapdos":{
+            "name":"Zapdos",
+            "id":145,
+            "evolution": "none",
+            "type": {
+                "type1": "electric",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
+            "url": "https://www.pokemon.com/br/pokedex/zapdos"
+        },
+        "Moltres":{
+            "name":"Moltres",
+            "id":146,
+            "evolution": "none",
+            "type": {
+                "type1": "fire",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png",
+            "url": "https://www.pokemon.com/br/pokedex/moltres"
+        },
+        "Dratini":{
+            "name":"Dratini",
+            "id":147,
+            "evolution": "Dragonair",
+            "type": {
+                "type1": "dragon",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+            "url": "https://www.pokemon.com/br/pokedex/dratini"
+        },
+        "Dragonair":{
+            "name":"Dragonair",
+            "id":148,
+            "evolution": "Dragonite",
+            "type": {
+                "type1": "dragon",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png",
+            "url": "https://www.pokemon.com/br/pokedex/dragonair"
+        },
+        "Dragonite":{
+            "name":"Dragonite",
+            "id":149,
+            "evolution": "none",
+            "type": {
+                "type1": "dragon",
+                "type2": "flying"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+            "url": "https://www.pokemon.com/br/pokedex/dragonite"
+        },
+        "Mewtwo":{
+            "name":"Mewtwo",
+            "id":150,
+            "evolution": "none",
+            "type": {
+                "type1": "psychic",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+            "url": "https://www.pokemon.com/br/pokedex/mewtwo"
+        },
+        "Mew":{
+            "name":"Mew",
+            "id":151,
+            "evolution": "none",
+            "type": {
+                "type1": "psychic",
+                "type2": "none"
+            },
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
+            "url": "https://www.pokemon.com/br/pokedex/mew"
+        }
+	}
+}
